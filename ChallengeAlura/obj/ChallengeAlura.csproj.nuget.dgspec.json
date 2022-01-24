@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\ChallengeAlura.csproj": {}
+    "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\ChallengeAlura.csproj": {}
   },
   "projects": {
-    "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\ChallengeAlura.csproj": {
+    "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\ChallengeAlura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\ChallengeAlura.csproj",
+        "projectUniqueName": "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\ChallengeAlura.csproj",
         "projectName": "ChallengeAlura",
-        "projectPath": "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\ChallengeAlura.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\obj\\",
+        "projectPath": "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\ChallengeAlura.csproj",
+        "packagesPath": "C:\\Users\\ossBr\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\ossBr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace ChallengeAlura.Data.ModelBuilder
+namespace ChallengeAlura.Data.ModelBuilders
 {
     public class DespesasBuilder : IEntityTypeConfiguration<Despesas>
     {
