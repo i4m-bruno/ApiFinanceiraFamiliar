@@ -2068,19 +2068,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ossBr\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\ChallengeAlura.csproj",
+      "projectUniqueName": "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\ChallengeAlura.csproj",
       "projectName": "ChallengeAlura",
-      "projectPath": "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\ChallengeAlura.csproj",
-      "packagesPath": "C:\\Users\\ossBr\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\ApiFinanceiraFamiliar\\ChallengeAlura\\obj\\",
+      "projectPath": "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\ChallengeAlura.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Fontes_Pessoais\\API_Challenge\\ChallengeAlura\\ChallengeAlura\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ossBr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
