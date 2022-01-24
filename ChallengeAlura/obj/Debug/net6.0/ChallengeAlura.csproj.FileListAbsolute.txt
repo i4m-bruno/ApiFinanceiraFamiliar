@@ -103,6 +103,7 @@ D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\bin\Debug\net6.0\runtimes\win\l
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura.csproj.AssemblyReference.cache
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura.AssemblyInfoInputs.cache
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura.AssemblyInfo.cs
@@ -117,4 +118,3 @@ D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ref\ChallengeAlura.dll
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura.pdb
 D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura.genruntimeconfig.cache
-D:\Projetos\ApiFinanceiraFamiliar\ChallengeAlura\obj\Debug\net6.0\ChallengeAlura.csproj.AssemblyReference.cache
